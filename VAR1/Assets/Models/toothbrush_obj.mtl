@@ -1,0 +1,94 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 19.03.2009 18:16:16
+
+newmtl neck
+	Ns 29.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2070 0.2070 0.2070
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "D:\gotovi modeli\Toothbrush\toothbrush_neck_oralb_color.jpg"
+	map_Kd "D:\gotovi modeli\Toothbrush\toothbrush_neck_oralb_color.jpg"
+	map_refl "D:\gotovi modeli\Eyes\Kitchen2_LL.hdr"
+
+newmtl body
+	Ns 29.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2070 0.2070 0.2070
+	Ke 0.0000 0.0000 0.0000
+	map_refl "D:\gotovi modeli\Eyes\Kitchen2_LL.hdr"
+
+newmtl grip
+	Ns 13.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0784 0.4431 0.3686
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump Map__3_Noise.tga
+
+newmtl metal
+	Ns 68.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9294 0.9294 0.9294
+	Ks 0.2830 0.2830 0.2830
+	Ke 0.0000 0.0000 0.0000
+
+newmtl body_braun
+	Ns 29.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2070 0.2070 0.2070
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "D:\gotovi modeli\Toothbrush\toothbrush_bottom_braun_color.jpg"
+	map_Kd "D:\gotovi modeli\Toothbrush\toothbrush_bottom_braun_color.jpg"
+	map_refl "D:\gotovi modeli\Eyes\Kitchen2_LL.hdr"
+
+newmtl brushes_blue
+	Ns 13.0000
+	Ni 1.5000
+	d 0.8000
+	Tr 0.8000
+	Tf 0.8000 0.8000 0.8000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2235 0.3294 0.6784
+	Ks 0.2900 0.2900 0.2900
+	Ke 0.0805 0.1186 0.2442
+
+newmtl brushes_white
+	Ns 9.0000
+	Ni 1.5000
+	d 0.8000
+	Tr 0.8000
+	Tf 0.8000 0.8000 0.8000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.3600 0.3600 0.3600
